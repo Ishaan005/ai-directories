@@ -15,6 +15,7 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
   - [I](#i)
   - [O](#o)
   - [P](#p)
+  - [Q](#q)
   - [S](#s)
   - [T](#t)
 
@@ -74,6 +75,10 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 - [PoweredbyAI](https://poweredbyai.app) - AI TOOLS & PROMPTS!
 - [Productivity Tools](https://productivity.directory) - A curated productivity directory
 - [Pugin](https://pugin.ai/) - Discover AI Plugins
+
+## Q 
+
+- [QubitlyEmail](https://qubitly-email.vercel.app/) - AI Email HTML Generator: A Way to Create Stunning HTML Emails Without Coding Skills or Expensive Designers
 
 ## S
 
